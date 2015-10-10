@@ -185,6 +185,10 @@
       templateUrl: '/static/templates/contributors/ramachandracn.html'
     })
 
+    .when('/sponsor', {
+      templateUrl: '/static/templates/sponsor/home.html'
+    })
+    
     .otherwise('/');   
   }
 })();
