@@ -186,7 +186,7 @@
     })
 
     .when('/sponsor', {
-      templateUrl: '/static/templates/sponsor/home.html'
+      templateUrl: '/static/templates/sponsor/sponsor_home.html'
     })
     
     .otherwise('/');   
