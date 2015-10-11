@@ -185,6 +185,10 @@
       templateUrl: '/static/templates/contributors/ramachandracn.html'
     })
 
+    .when('/contributors/nagesh', {
+      templateUrl: '/static/templates/contributors/nagesh.html'
+    })
+
     .when('/sponsor', {
       templateUrl: '/static/templates/sponsor/sponsor_home.html'
     })
